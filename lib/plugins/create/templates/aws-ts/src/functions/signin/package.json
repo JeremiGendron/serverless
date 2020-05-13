@@ -1,0 +1,8 @@
+{
+  "name": "signin",
+  "version": "1.0.0",
+  "license": "PRIVATE",
+  "dependencies": {
+    "uuid": "^8.0.0"
+  }
+}
